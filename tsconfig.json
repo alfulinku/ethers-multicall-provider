@@ -8,6 +8,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "module": "CommonJS",                                /* Specify what module code is generated. */
     "moduleResolution": "node",
     "resolveJsonModule": true
   },
